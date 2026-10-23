@@ -1,0 +1,16 @@
+# Python Backend
+backend/venv/
+backend/__pycache__/
+backend/**/__pycache__/
+backend/.env
+backend/uploads/*
+backend/outputs/*
+
+# Next.js Web
+web/node_modules/
+web/.next/
+web/.env.local
+
+# Mobile
+mobile/node_modules/
+mobile/.expo/
